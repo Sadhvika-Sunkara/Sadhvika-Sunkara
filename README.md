@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Sadhvika 👋
 
-<!--
-**Sadhvika-Sunkara/Sadhvika-Sunkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst & AI Engineer based in Sydney, Australia  
+🔨 Currently building: Victoria Road Crash Analysis dashboard  
+🌱 Learning: Python · SQL · Pandas · Tableau · LangChain  
+💼 Looking for: Data Analyst / AI Engineer roles in Sydney  
 
-Here are some ideas to get you started:
+### 🛠 Tech stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects in progress
+| Project | Tools | Status |
+|---------|-------|--------|
+| Victoria Road Crash Analysis | Python · Pandas · Tableau | 🟡 In progress |
+
+### 📫 Let's connect
+Open to data roles and collaboration — reach out anytime!
