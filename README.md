@@ -2,8 +2,8 @@
 
 🎯 Data Analyst · Data Scientist · Data Engineer · AI Engineer  
 📚 Master of Data Science @ Macquarie University, Sydney  
-💼 Research Data Scientist @ NSW Health | Data Analyst @ SecX | Ops @ Woolworths  
-🔨 Currently building: AI portfolio projects in Python · LangChain · OpenAI · Tableau  
+💼 Research Data Scientist @ NSW Health | Data Analyst @ SecX | Assistant Inventory Manager @ Woolworths  
+🔨 Currently building: AI portfolio projects in Python · LangChain · OpenAI · Power BI  
 📍 Sydney, Australia — open to data and AI roles  
 
 ---
@@ -12,7 +12,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
@@ -21,6 +20,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-blue?style=flat)
 
 ---
 
@@ -29,9 +29,9 @@
 | Project | Tools | Role | Status |
 |---------|-------|------|--------|
 | 🤖 [Multi-Agent RAG System](https://github.com/Sadhvika-Sunkara/multi-agent-rag-system) | Python · LangChain · OpenAI · FAISS | AI Engineer | ✅ [Live demo](https://sadhvika-multi-agent-rag.streamlit.app) |
-| 🚗 [Victoria Road Crash Analysis](https://github.com/Sadhvika-Sunkara/victoria-road-crash-analysis) | Python · SQL · Pandas · Tableau | Data Analyst | 🟡 In progress |
-| 🤖 Customer Churn Prediction | Scikit-learn · SHAP · Python | Data Scientist | ⚪ Planned |
+| 🚗 [Victoria Road Crash Analysis](https://github.com/Sadhvika-Sunkara/victoria-road-crash-analysis) | Python · SQL · Pandas · Power BI | Data Analyst | 🟡 In progress |
 | 💼 AI-Powered BI System | Python · LLMs · SQL · Streamlit | AI Engineer | ⚪ Coming soon |
+| 🤖 Customer Churn Prediction | Scikit-learn · SHAP · Python | Data Scientist | ⚪ Planned |
 | 🔄 Real-time Streaming Lakehouse | Kafka · Spark · Delta Lake | Data Engineer | ⚪ Planned |
 | 🧠 Bayesian Topic Segmentation | Python · NLP · Statistics | Data Scientist | ✅ MDS coursework |
 | 📝 Text Classification (fastText) | Python · NLP · fastText | AI / NLP | ✅ MDS coursework |
