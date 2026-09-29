@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-blue?style=flat)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -30,6 +30,7 @@
 |---------|-------|------|--------|
 | 🤖 [Multi-Agent RAG System](https://github.com/Sadhvika-Sunkara/multi-agent-rag-system) | Python · LangChain · OpenAI · FAISS | AI Engineer | ✅ [Live demo](https://sadhvika-multi-agent-rag.streamlit.app) |
 | 🚗 [Victoria Road Crash Analysis](https://github.com/Sadhvika-Sunkara/victoria-road-crash-analysis) | Python · SQL · Pandas · Power BI | Data Analyst | 🟡 In progress |
+| 📊 [Job Market Analysis — 4-part ML series](https://github.com/Sadhvika-Sunkara/job-market-analysis) | Python · Scikit-learn · TF-IDF · Linear SVM | Data Scientist | ✅ [Read on Medium](https://medium.com/@sadhvikasunkara4) |
 | 💼 AI-Powered BI System | Python · LLMs · SQL · Streamlit | AI Engineer | ⚪ Coming soon |
 | 🤖 Customer Churn Prediction | Scikit-learn · SHAP · Python | Data Scientist | ⚪ Planned |
 | 🔄 Real-time Streaming Lakehouse | Kafka · Spark · Delta Lake | Data Engineer | ⚪ Planned |
@@ -45,9 +46,10 @@ Relevant units: Machine Learning · NLP · Statistical Modelling · Data Enginee
 ---
 
 ### 📝 Latest writing
-- [Multi-Agent RAG System for Enterprise Knowledge Q&A](https://medium.com/@sadhvikasunkara4)
-- [Data Pipeline & ML Classifier for Job-Market Analysis](https://medium.com/@sadhvikasunkara4)
-- [Agentic AI in 2026: What's Real vs. What's Hype](https://medium.com/@sadhvikasunkara4)
+- [🤖 I Built an AI Agent That Tells You Exactly What to Learn to Get Hired](https://medium.com/@sadhvikasunkara4/i-built-an-ai-agent-that-tells-you-exactly-what-to-learn-to-get-hired-part-4-the-agent-73c487b242ac)
+- [🧠 Building an ML Classifier to Predict What Skills You Actually Need](https://medium.com/@sadhvikasunkara4/building-a-model-to-predict-what-skills-you-actually-need-part-3-the-ml-9baf05bca00f)
+- [🔍 Can a Job Title Predict Required Skills?](https://medium.com/@sadhvikasunkara4/i-built-a-data-pipeline-to-analyze-the-job-market-im-trying-to-enter-part-2-can-a-job-title-841a9585ec62)
+- [📄 What 95 Real Job Postings Reveal About the Data Job Market](https://medium.com/@sadhvikasunkara4/i-built-a-data-pipeline-to-analyze-the-job-market-im-trying-to-enter-part-1-what-95-real-job-f6d8754fc7d6)
 
 ---
 
